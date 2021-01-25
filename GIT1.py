@@ -1,1 +1,2 @@
 print("Moti")
+print("shinuy")
